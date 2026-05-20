@@ -98,7 +98,7 @@ const SignupPage: React.FC<SignupPageProps> = ({ plan, onSignupComplete, onBack 
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   className="w-full pl-12 pr-4 py-3 bg-slate-50 border border-slate-100 rounded-xl outline-none focus:ring-2 focus:ring-orange-500 transition-all font-medium"
-                  placeholder="john@example.com"
+                  placeholder="yasmien@example.com"
                 />
               </div>
             </div>
